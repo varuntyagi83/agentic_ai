@@ -1,4 +1,4 @@
-# agentic_ai
+# Agentic AI
 This repo contains the AI agents for educational and practical purposes
 
 # Medium Blogs

@@ -1,0 +1,4 @@
+python-dotenv
+pytest
+
+openai>=1.0.0
